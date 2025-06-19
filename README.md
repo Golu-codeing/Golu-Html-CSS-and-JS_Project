@@ -2,6 +2,7 @@
 This is Advance Project end-to-end project
 
 **#HTML Codeing**
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -22,6 +23,7 @@ This is Advance Project end-to-end project
 
 
 **#CSS Codeing**
+
 body{
     display: flex;
     flex-direction: column;
@@ -65,6 +67,7 @@ body{
 }
 
 **#Js Codeing**
+
 document.getElementById("animate-btn").addEventListener("click", () => {
     gsap.to("animated-box", {
         duration: 1.5,
